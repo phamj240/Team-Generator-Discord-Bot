@@ -1,0 +1,1 @@
+Token, GuildID, and clientID from Discord Developr Portal are stored within a config.json file and isn't included in this repository. This bot is hosted using discloud and the discloud.config file is also not included.
